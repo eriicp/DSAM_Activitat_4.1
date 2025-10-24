@@ -6,4 +6,8 @@
     <string name="has_fallat">Has fallat</string>
     <string name="l_has_endevinat">L\'has endevinat!</string>
     <string name="nom">Nom</string>
+    <string name="benvingut">Benvingut!</string>
+    <string name="data">13/10/2025</string>
+    <string name="seguent">Seguent</string>
+    <string name="com_et_dius">Com et dius?</string>
 </resources>

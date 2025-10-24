@@ -26,8 +26,7 @@ class StartActivity : AppCompatActivity() {
         title = nom
 
         backButton.setOnClickListener {
-            val intent1 = Intent(this, MainActivity::class.java)
-            startActivity(intent1)
+            finish()
         }
 
         botoE.setOnClickListener {

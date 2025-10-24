@@ -2,6 +2,7 @@ package com.example.activitat41
 
 import android.content.Intent
 import android.os.Bundle
+import android.widget.EditText
 import android.widget.ImageButton
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
@@ -26,8 +27,7 @@ class SuccesActivity : AppCompatActivity() {
         nomTextView.text = nom;
 
         backButton.setOnClickListener {
-            val intent2 = Intent(this, StartActivity::class.java)
-            startActivity(intent2)
+            finish()
         }
     }
 }

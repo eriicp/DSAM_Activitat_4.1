@@ -26,8 +26,7 @@ class ErrorActivity : AppCompatActivity() {
         nomTextView.text = nom;
 
         backButton.setOnClickListener {
-            val intent2 = Intent(this, StartActivity::class.java)
-            startActivity(intent2)
+            finish()
         }
     }
 }
