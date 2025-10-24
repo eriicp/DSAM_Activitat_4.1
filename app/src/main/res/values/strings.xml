@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activitat 4.1</string>
+    <string name="endevina_un_n_mero_del_1_al_3">Endevina un número del 1 al 3.</string>
+    <string name="endevina">Endevina</string>
+    <string name="numero_seleccionat">Numero seleccionat</string>
+    <string name="has_fallat">Has fallat</string>
+    <string name="l_has_endevinat">L\'has endevinat!</string>
+    <string name="nom">Nom</string>
+</resources>
